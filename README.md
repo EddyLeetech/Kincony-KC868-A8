@@ -5,3 +5,5 @@ Die Bin Datei ist bereits kompeliert und kann in der Version "Tasmota v14.5.0 Ru
 
 In der Datei "user_config_override.h" ist bereits der Code für deaktivierung WLan und aktivierung LAN enthalten.
 https://templates.blakadder.com/kincony_KC868-A8.html
+
+![image](https://github.com/user-attachments/assets/5d6a7e22-eeda-4d0e-a46f-484bd38ab961)
